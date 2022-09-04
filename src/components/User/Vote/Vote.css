@@ -1,0 +1,7 @@
+.vote-header{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    background-color: rgb(173, 173, 193);
+    border-bottom: 1px solid rgb(108, 105, 105);
+}

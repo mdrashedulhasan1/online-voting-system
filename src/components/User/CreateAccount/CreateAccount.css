@@ -1,0 +1,6 @@
+.registration-header{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border-bottom: 1px solid rgb(108, 105, 105);
+}

@@ -1,0 +1,10 @@
+.user-header{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    border-bottom: 1px solid rgb(108, 105, 105);
+}
+.required:after {
+    content:" *";
+    color: red;
+  }
